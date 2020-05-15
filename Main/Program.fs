@@ -1,6 +1,9 @@
 ﻿// Learn more about F# at http://fsharp.org
 
 open System
+open Types
+
+
 
 [<EntryPoint>]
 let main argv =
